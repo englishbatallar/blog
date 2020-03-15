@@ -6,11 +6,12 @@ output: html_document
 ---
 + ### Activities
 
-![](/./16i172nd_files/pdf1.png){width=25%}
+![](/docs/16i172nd_files/img22.jpg){width=25%}
+
 [pdf1](/./16i172nd_files/pdf12nd.pdf)
 
 
-![](/./16i172nd_files/img22.jpg){width=25%}
+![](img22.jpg)
 [pdf2](/./16i172nd_files/pdf22.pdf)
 
 + ### Youtube
