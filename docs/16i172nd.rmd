@@ -6,8 +6,8 @@ output: html_document
 ---
 + ### Activities
 
-![](/post/2020-03-15-2nd-grade_files/pdf1.png){width=25%}
-[pdf1](/post/2020-03-15-2nd-grade_files/pdf12nd.pdf){width=25%}
+![](/./16i172nd_files/pdf1.png){width=25%}
+[pdf1](/./16i172nd_files/pdf12nd.pdf)
 
 
 ![](/./16i172nd_files/img22.jpg){width=25%}
